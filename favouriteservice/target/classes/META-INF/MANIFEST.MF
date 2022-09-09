@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: KIIT
+Build-Jdk: 17.0.4
+Implementation-Title: FavouriteService
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.stackroute
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/newsapp/favouriteservice
+Created-By: Maven Integration for Eclipse
+
